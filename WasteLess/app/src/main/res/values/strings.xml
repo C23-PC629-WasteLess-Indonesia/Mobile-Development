@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">WasteLess</string>
+    <string name="email">Email</string>
+    <string name="nama">Nama</string>
+    <string name="password">Password</string>
+    <string name="welcomeback">Welcome back!</string>
+    <string name="register">Register</string>
+    <string name="recomended">Rekomendasi untuk kamu</string>
+    <string name="makananGratis">Makanan gratis</string>
+    <string name="makananyangdibagikan">Makanan yang dibagikan</string>
+    <string name="makanantelahkamubagikan">Makanan telah kamu bagikan</string>
+    <string name="tambahkangambarmakanan">Tambahkan gambar makanan</string>
+    <string name="alert">Pastikan makanan yang kamu bagikan masih layak untuk dikonsumsi!</string>
+    <string name="donasimakanan">Donasi makanan</string>
+</resources>

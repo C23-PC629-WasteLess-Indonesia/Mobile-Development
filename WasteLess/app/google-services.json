@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "915532316936",
+    "firebase_url": "https://wastelesschat-ec898-default-rtdb.firebaseio.com",
+    "project_id": "wastelesschat-ec898",
+    "storage_bucket": "wastelesschat-ec898.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:915532316936:android:1df2d73280ee264c9b2cbd",
+        "android_client_info": {
+          "package_name": "com.example.wasteless"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "915532316936-cusmcpit6bth6ajbib92g70267nu9vru.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnkFxGIHC5yXVfEmz5WBBjIX8bNfN7m_A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "915532316936-cusmcpit6bth6ajbib92g70267nu9vru.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
